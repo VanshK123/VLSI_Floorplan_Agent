@@ -13,6 +13,10 @@
 
 ---
 
+> ## 📘 **Check out the project report PDF for detailed theoretical foundations, methodology proofs, and comprehensive benchmark results.**
+
+
+
 ## 🔍 Technical Deep Dive
 
 This project delivers an end-to-end, autonomous VLSI physical-design pipeline by orchestrating six tightly integrated stages, each engineered for enterprise-grade scalability and performance:
