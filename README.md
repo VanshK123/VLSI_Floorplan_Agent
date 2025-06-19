@@ -112,7 +112,7 @@ flowchart LR
 
 ---
 
-## 🖼 Architecture & Workflow Diagrams
+## 🏗️ Architecture & Workflow Diagrams
 
 ### Microservices Deployment Topology  
 ![Microservices Deployment Topology](docs/images/5_2_microservices_topology.png)
