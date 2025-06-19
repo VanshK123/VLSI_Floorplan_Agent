@@ -112,6 +112,25 @@ flowchart LR
 
 ---
 
+## 🖼 Architecture & Workflow Diagrams
+
+### Microservices Deployment Topology  
+![Microservices Deployment Topology](docs/images/5_2_microservices_topology.png)
+
+### Message Flow Sequence Diagram  
+![Message Flow Sequence Diagram](docs/images/5_3_sequence_diagram.png)
+
+### Auto-Scaling Architecture  
+![Auto-Scaling Architecture](docs/images/5_4_autoscaling_architecture.png)
+
+### Basic Optimization Pipeline  
+![Basic Optimization Pipeline](docs/images/basicflow.png)
+
+### Detailed Optimization Pipeline  
+![Detailed Optimization Pipeline](docs/images/complexflow.png)
+
+---
+
 ## 🚀 Installation
 
 1. **Clone the repository**  
